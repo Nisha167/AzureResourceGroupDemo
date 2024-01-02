@@ -17,7 +17,7 @@ steps:
     subscriptionId: 'bdc4b3cd-a839-4b69-9d61-cd7acd0d00c5'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'ARMDemoProj-rg'
-    location: 'C'
+    location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Nisha167/AzureResourceGroupDemo/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACMITIYXXNJPVRBFULI3N35SZMUBD6Q'
     overrideParameters: '-projectName ARMDemoProj'
