@@ -19,7 +19,9 @@ steps:
     resourceGroupName: 'ARMDemoProj-rg'
     location: 'Central US'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/Nisha167/AzureResourceGroupDemo/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACMITIYXXNJPVRBFULI3N35SZMUBD6Q'
+    csmFileLink: '
+
+https://raw.githubusercontent.com/Nisha167/AzureResourceGroupDemo/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACMIWUS44ICCTBCGMCRRWEFMZMUCLXQ'
     overrideParameters: '-projectName ARMDemoProj'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
